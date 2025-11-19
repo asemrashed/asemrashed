@@ -9,12 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3A8DF7&center=true&vCenter=true&width=500&lines=Junior+Web+Developer;Frontend+Web+Developer;MERN+Stack+Developer" />
 </h3>
 
-<p align="center">
-  <a href="https://asemrashed.pages.dev"><img src="https://skillicons.dev/icons?i=chrome" /></a>
-  <a href="https://github.com/asemrashed"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/asem-rashed-2420a331"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
-
 ---
 <!-- ===================== ABOUT SECTION ===================== -->
 ## 👨‍💻 About Me
@@ -93,7 +87,7 @@ I enjoy turning ideas into real-world projects and continuously improving my dev
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://asemrashed.pages.dev"><img src="https://skillicons.dev/icons?i=chrome" /></a>
+  <a href="https://asemrashed.pages.dev"><img src="https://skillicons.dev/icons?i=htmx" /></a>
   <a href="https://github.com/asemrashed"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/asem-rashed-2420a331"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:asemrashed002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
