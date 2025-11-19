@@ -1,3 +1,8 @@
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://github.com/asemrashed/asemrashed/raw/43e16f3f90fe4b440e59d74ba7363ab8c36c234d/Asem-Rashed%20LinkedIn%20Banner.png" alt="Asem Rashed Banner" width="100%">
+</p>
+
 <h1 align="center">Hi, I'm Asem Rashed 👋</h1>
 
 <h3 align="center">
@@ -10,6 +15,18 @@
   <a href="https://www.linkedin.com/in/asem-rashed-2420a331"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
+---
+<!-- ===================== ABOUT SECTION ===================== -->
+## 👨‍💻 About Me
+
+I'm a Junior Web Developer passionate about building clean, responsive, and user-friendly applications.  
+I mainly work with **React**, **Next.js**, **Tailwind**, and the **MERN stack**.  
+I enjoy turning ideas into real-world projects and continuously improving my development workflow.
+
+- 🚀 Love frontend UI/UX & modern web technologies  
+- ⚡ Focused on clean code and smooth user experience  
+- 🌱 Always learning new tools that improve productivity  
+- 🎯 Currently improving skills in Next.js & animation 
 ---
 
 ## 🚀 Tech Stack
@@ -72,13 +89,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asemrashed/asemrashed/output/snake.svg" alt="contribution snake" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
