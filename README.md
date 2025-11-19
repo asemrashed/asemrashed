@@ -1,82 +1,117 @@
-## Hi, I'm Asem Rashed 👋
+<h1 align="center">Hi, I'm Asem Rashed 👋</h1>
 
-I'm a Junior Web Developer who loves building clean, responsive, and user-friendly applications.  
-Most of my work focuses on **React**, **Next.js**, and modern UI frameworks.  
-I enjoy turning ideas into real, functional, and smooth web experiences.
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3A8DF7&center=true&vCenter=true&width=500&lines=Junior+Web+Developer;Frontend+Web+Developer;MERN+Stack+Developer" />
+</h3>
+
+<p align="center">
+  <a href="https://asemrashed.pages.dev"><img src="https://skillicons.dev/icons?i=chrome" /></a>
+  <a href="https://github.com/asemrashed"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/asem-rashed-2420a331"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 
-### **Frontend**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Next.js, Vite
-- Tailwind CSS, Material UI, DaisyUI
-- SwiperJS, Firebase Auth
+### 🔹 **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,materialui,vite" />
+</p>
 
-### **Backend**
-- Node.js, Express.js
-- REST APIs
-- Authentication (JWT, Firebase)
+### 🔹 **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### **Database**
-- MongoDB
-- Mongoose
+### 🔹 **Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-### **Deployment**
-- Vercel  
-- Netlify  
-- Render  
-- GitHub Pages  
+### 🔹 **Deployment**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,github" />
+</p>
 
-### **Tools & Technology**
-- Git & GitHub  
-- Cloudinary  
-- MapTiler  
-- JSON  
-- Security Practices (Helmet, Bcrypt)  
+### 🔹 **Tools & Technology**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,firebase,cloudflare" />
+</p>
 
 ---
 
 ## 📌 Pinned Projects
 
-### 🔹 **GreenNest – Plant E-commerce (Frontend)**
-A clean, modern plant e-commerce UI with Firebase authentication.  
-Tech: React, Vite, Tailwind, DaisyUI, Firebase Auth  
+### 🔹 GreenNest – Plant E-commerce (Frontend)
+**Tech:** React, Vite, Tailwind, DaisyUI, Firebase Auth  
 🔗 Live: https://green-nest-by-asem.netlify.app/  
 🔗 Code: https://github.com/asemrashed/GreenNest  
 
 ---
 
-### 🔹 **Restaurant Landing Page (Frontend)**
-A responsive landing page with menu, reviews, and reservation UI.  
-Tech: React, Material UI  
+### 🔹 Restaurant Landing Page (Frontend)
+**Tech:** React, Material UI  
 🔗 Live: https://asemrashed.github.io/restaurant/  
 🔗 Code: https://github.com/asemrashed/restaurant  
 
 ---
 
-### 🔹 **e-Auction (Full Stack)**
-Auction platform with product listing, authentication, and image uploads.  
-Tech: Next.js, Tailwind, Node.js, Express, MongoDB, Cloudinary  
+### 🔹 e-Auction (Full Stack)
+**Tech:** Next.js, Tailwind, Node.js, Express, MongoDB, Cloudinary  
 🔗 Live: https://e-auction-six.vercel.app/  
 🔗 Code: https://github.com/asemrashed/e-auction  
 
 ---
 
-### 🔹 **Hero.IO – Authentication & API Backend**
-Backend service with secure authentication and API handling.  
-Tech: Node.js, Express.js, MongoDB, Firebase Auth  
+### 🔹 Hero.IO – Authentication & API Backend
+**Tech:** Node.js, Express.js, MongoDB, Firebase Auth  
 🔗 Code: https://github.com/asemrashed/hero.io  
 
 ---
 
-## 🌐 Connect With Me
-- Portfolio: https://asemrashed.pages.dev  
-- GitHub: https://github.com/asemrashed  
-- LinkedIn: https://www.linkedin.com/in/asem-rashed-2420a331  
-- Email: asemrashed002@gmail.com  
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=asemrashed&show_icons=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asemrashed&layout=compact&theme=default" />
+</p>
 
 ---
 
-Thanks for stopping by!  
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=asemrashed&theme=default" />
+</p>
+
+---
+
+## 🧩 Repository Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asemrashed&theme=default" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/asemrashed/asemrashed/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://asemrashed.pages.dev"><img src="https://skillicons.dev/icons?i=chrome" /></a>
+  <a href="https://github.com/asemrashed"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/asem-rashed-2420a331"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:asemrashed002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+Thanks for visiting my profile!  
