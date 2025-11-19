@@ -31,44 +31,21 @@
 
 ### 🔹 **Deployment**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,github" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,github,firebase" />
 </p>
 
 ### 🔹 **Tools & Technology**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,firebase,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=git,firebase,vscode,discord,github" />
 </p>
 
+
+### 🔹 **Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts" />
+</p>
 ---
 
-## 📌 Pinned Projects
-
-### 🔹 GreenNest – Plant E-commerce (Frontend)
-**Tech:** React, Vite, Tailwind, DaisyUI, Firebase Auth  
-🔗 Live: https://green-nest-by-asem.netlify.app/  
-🔗 Code: https://github.com/asemrashed/GreenNest  
-
----
-
-### 🔹 Restaurant Landing Page (Frontend)
-**Tech:** React, Material UI  
-🔗 Live: https://asemrashed.github.io/restaurant/  
-🔗 Code: https://github.com/asemrashed/restaurant  
-
----
-
-### 🔹 e-Auction (Full Stack)
-**Tech:** Next.js, Tailwind, Node.js, Express, MongoDB, Cloudinary  
-🔗 Live: https://e-auction-six.vercel.app/  
-🔗 Code: https://github.com/asemrashed/e-auction  
-
----
-
-### 🔹 Hero.IO – Authentication & API Backend
-**Tech:** Node.js, Express.js, MongoDB, Firebase Auth  
-🔗 Code: https://github.com/asemrashed/hero.io  
-
----
 
 ## 📊 GitHub Statistics
 
@@ -98,7 +75,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/asemrashed/asemrashed/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/asemrashed/asemrashed/output/snake.svg" alt="contribution snake" />
 </p>
 
 ---
