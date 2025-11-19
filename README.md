@@ -70,7 +70,7 @@ I enjoy turning ideas into real-world projects and continuously improving my dev
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=asemrashed&theme=default" />
+  <img src="https://streak-stats.vercel.app/?user=asemrashed&theme=default" />
 </p>
 
 ---
